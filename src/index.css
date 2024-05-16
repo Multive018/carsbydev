@@ -12,6 +12,6 @@
   transition: 500ms;
 }
 
-.container .dark{
-  background-color: #021925;
+.dark{
+  background: linear-gradient(to top, #131B23 10%, #21323E 100%);
 }
