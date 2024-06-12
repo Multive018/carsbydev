@@ -13,5 +13,5 @@
 }
 
 .dark{
-  background: linear-gradient(to top, #131B23 10%, #21323E 100%);
+  background: radial-gradient(circle at 85.4% 50.8%, rgb(24, 52, 54) 0%, rgb(23, 42, 53) 74.2%);
 }
